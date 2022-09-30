@@ -1,4 +1,4 @@
-- 👋 Hi, My name is JJ! Welcome to my GitHub page.
+Hi 👋, My name is JJ! Welcome to my GitHub page.
 
 I see myself as a passionate software enthusiast. I believe that anything can be solved with software. 
 With that, I strive to learn as much as possible. 
@@ -11,11 +11,12 @@ I manage pressure quite wel as I worked as a support technician while managing s
 I believe that rapid learning is fantastic and that you will always learn something new that you never used previously.
 
 My ability to work in a team grew significantly after starting at Singular Systems. From working with elegant software approaches to in depth planning in teams of up to 20 people.
-- 
-- 👀 I’m interested in in various technologiy stacts related to .NET. I am extremely facinated by the ability to create literally anything using C#.
-- 
-- 🌱 I’m currently learning Blazor Server, WASM and Maui Blazor. I am having an absolute blast using these technologies as it allows me to build fully capable software for any scale!
-- 📫 How to reach me:
+
+👀 I’m interested in in various technologiy stacts related to .NET. I am extremely facinated by the ability to create literally anything using C#.
+
+🌱 I’m currently learning Blazor Server, WASM and Maui Blazor. I am having an absolute blast using these technologies as it allows me to build fully capable software for any scale!
+
+📫 How to reach me:
 
 Facebook: https://www.facebook.com/jacques.swart.395/
 Instagram: -
