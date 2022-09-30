@@ -1,4 +1,4 @@
-Hi 👋, My name is JJ! Welcome to my GitHub page.
+Hi👋, My name is JJ! Welcome to my GitHub page.
 
 I see myself as a passionate software enthusiast. I believe that anything can be solved with software. 
 With that, I strive to learn as much as possible. 
@@ -18,9 +18,9 @@ My ability to work in a team grew significantly after starting at Singular Syste
 
 📫 How to reach me:
 
-Facebook: https://www.facebook.com/jacques.swart.395/
-Instagram: -
-LinkedIn: https://www.linkedin.com/in/jj-swart-b0b723185/
+- Facebook: https://www.facebook.com/jacques.swart.395/
+- Instagram: -
+- LinkedIn: https://www.linkedin.com/in/jj-swart-b0b723185/
 
 <!---
 jacswa/jacswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
