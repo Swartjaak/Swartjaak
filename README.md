@@ -16,12 +16,6 @@ My ability to work in a team grew significantly after starting at Singular Syste
 
 🌱 I’m currently learning Blazor Server, WASM and Maui Blazor. I am having an absolute blast using these technologies as it allows me to build fully capable software for any scale!
 
-📫 How to reach me:
-
-- Facebook: https://www.facebook.com/jacques.swart.395/
-- Instagram: -
-- LinkedIn: https://www.linkedin.com/in/jj-swart-b0b723185/
-
 <!---
 jacswa/jacswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
